@@ -5,7 +5,7 @@ export default function HomePage() {
     return(
         <DivContainer>
             <TitleBox>
-                My phonebook
+            Welcome to Coding Club
             </TitleBox>
         </DivContainer>
     )

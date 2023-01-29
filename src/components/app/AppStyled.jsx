@@ -1,7 +1,7 @@
 import styled from "@emotion/styled";
 
 export const DivBox = styled.div`
-   background-color: rgb(230, 250, 230);
+   background-color: rgb(228, 230, 237);
    margin-left: auto;
    margin-right: auto;
    padding: 16px;
